@@ -18,7 +18,7 @@ git clone https://github.com/Remi-Debu/Nintendo.git
 Pour ouvrir le projet, ouvrez le fichier index.html avec votre navigateur web. Vous devriez voir s'afficher la page d'accueil de Nintendo. Si vous souhaitez modifier le code, ouvrez le fichier avec votre éditeur de code.
 
 ## Crédits
-Le design de la page a été inspiré par le site officiel de Nintendo disponible à l'adresse https://www.nintendo.com/.
+Le design de la page a été inspiré par le site officiel de Nintendo disponible à l'adresse https://www.nintendo.fr/.
  
 ## Aperçu de la reproduction
 ![](./assets/img/aperçu.png)
